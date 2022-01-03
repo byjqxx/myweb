@@ -11,7 +11,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/byjqxx/myvless)
 
 ## 注意
 
@@ -26,7 +26,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 ### UUID
 
-`UUID` 默认为 `10974d1a-cbd6-4b6f-db1d-38d78b3fb109` 你也可以在部署时自由修改（建议修改）。
+`UUID` 默认为 `a3eb1b1c-fbe1-4f7e-a70c-246888cdd717` 你也可以在部署时自由修改（建议修改）。
 
 ## 流量中转
 
@@ -44,36 +44,3 @@ addEventListener(
       }
     ) 
 ```
-
-
-详细教程
-https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
-
-搭建中有任何问题，也可以联系我 https://t.me/herokuvless
-
-
-
-
-或者你也可以 使用 https://2024.ml/ 
-
-使用永久优惠码 `FREE2024` 选择免费套餐，流量超出后可再次使用增加流量（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付，其中带广告屏蔽线路，屏蔽youtube等视频站点广告，带netflix等线路支持新加坡netflix解锁）
-
-关闭强制邀请注册，香港和新加坡节点本身带宽小，用的人太多流量已超标，暂停免费使用。后续会增加法兰克福，洛杉矶、纽约、东京，多伦多等5个免费节点。其中部分会针对联通和电信停机免流优化。
-注册邀请码：持续更新 2021-12-23
-
-```
-pNyNgTF4
-ZnlOxI0f
-5pPcjgnE
-LdVaqvoS
-```
-
-如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。
-### 近期特价服务器推荐
-virmach最近一直有黑五电商星期一活动，常规配置6.3刀一年 折合人民币不到40元一年，支持支付宝，paypal付款。建议选择西雅图，圣何塞，洛杉矶节点，到国内速度不错。。。同时我自己买的水牛城和圣何塞节点，测试都可以观看netflix美国地区非自制片。
-https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/special-offers
-
-cloudcone双十二活动，
-https://app.cloudcone.com/vps/70/create?token=12.12-vps-offer-1&ref=5687
-
-
